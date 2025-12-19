@@ -47,7 +47,7 @@ plt.show()
 ```
 ## Output
 </br>
-<img width="1380" height="712" alt="{44562D15-C3DB-4B70-9ECF-38A87B723139}" src="https://github.com/user-attachments/assets/00de396d-7386-4e22-a676-c5313afb35e1" />
+<img width="1369" height="693" alt="{FC2E15A0-65C9-4D9C-8667-D6F6736F417B}" src="https://github.com/user-attachments/assets/674ed314-0d56-4f73-a40d-45f96dd2a714" />
 </br>
 <img width="683" height="588" alt="{A26413A6-D8DF-45F7-872D-C4F68DB5E0FC}" src="https://github.com/user-attachments/assets/9d565919-d05d-4d22-a6c0-d72a685eca93" />
 </br>
